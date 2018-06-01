@@ -1,0 +1,10 @@
+
+Introduction to the wireframe module and how to implement it in pygame:
+http://www.petercollingridge.co.uk/tutorials/3d/pygame/
+
+How to draw anti-aliased polygons in pygame:
+https://stackoverflow.com/questions/20357282/pygame-draw-antialiased-filled-polygon
+
+Back face detection:
+https://www.tutorialspoint.com/computer_graphics/visible_surface_detection.htm
+https://www.geeksforgeeks.org/back-face-detection-method/
