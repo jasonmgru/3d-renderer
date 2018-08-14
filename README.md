@@ -4,7 +4,7 @@ This is a cool 3D renderer that I made for fun after reading [this tutorial](htt
 
 It is a simple program to render two cubes that can be independently rotated, moved around, and scaled.
 
-![Application window is shown with two cubes, one red and one green, sitting side-by-side.](https://github.com/jasonmgru/3d-renderer/github_preview.png)
+![Application window is shown with two cubes, one red and one green, sitting side-by-side.](https://github.com/jasonmgru/3d-renderer/blob/master/github_preview.png)
 
 ## Installation and Running
 
