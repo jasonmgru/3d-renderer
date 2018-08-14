@@ -1,6 +1,6 @@
-# 3D Renderer
+#3D Renderer
 
-This is a cool 3D renderer that I made for fun after reading (http://www.petercollingridge.co.uk/tutorials/3d/pygame/ "this tutorial") by Peter Collingridge. 
+This is a cool 3D renderer that I made for fun after reading [this tutorial](http://www.petercollingridge.co.uk/tutorials/3d/pygame/) by Peter Collingridge. 
 
 It is a simple program to render two cubes that can be independently rotated, moved around, and scaled.
 
@@ -8,7 +8,7 @@ It is a simple program to render two cubes that can be independently rotated, mo
 
 This program requires Python3, numpy, and pygame. If you already have these dependencies, skip to step 5.
 
-1. Install Python3 from (https://www.python.org/downloads/) 
+1. Install Python3 from [https://www.python.org/downloads/] 
 2. From the command line, verify that python3 was successfully installed by typing `python3 --version` This should display the python version.
 3. Install numpy by typing `pip3 install numpy`
 4. Install pygame by typing `pip3 install pygame`
