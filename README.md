@@ -1,10 +1,8 @@
-#3D Renderer
+# 3D Renderer
 
 This is a cool 3D renderer that I made for fun after reading [this tutorial](http://www.petercollingridge.co.uk/tutorials/3d/pygame/) by Peter Collingridge. 
 
 It is a simple program to render two cubes that can be independently rotated, moved around, and scaled.
-
-![Application window is shown with two cubes, one red and one green, sitting side-by-side.](https://github.com/jasonmgru/3d-renderer/blob/master/github_preview.png)
 
 ## Installation and Running
 
@@ -28,3 +26,8 @@ From here, you can manipulate the cube in several ways:
 - Use <kbd>a</kbd> and <kbd>d</kbd> to rotate the cube around the z-axis
 - Use <kbd>q</kbd> and <kbd>e</kbd> to rotate the cube around the y-axis
 - Use <kbd>s</kbd> and <kbd>w</kbd> to rotate the cube around the x-axis
+
+## Preview 
+
+![Application window is shown with two cubes, one red and one green, sitting side-by-side.](https://github.com/jasonmgru/3d-renderer/blob/master/github_preview.png)
+
